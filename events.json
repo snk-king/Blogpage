@@ -1,0 +1,43 @@
+{
+    "completedevents": [
+      {
+        "id": "1-2-2024",
+        "bannerimg": "src/assets/banner (1).jpg",
+        "eventname": "First Day",
+        "textcontent": "..."
+      },
+      {
+        "id": "2-2-2024",
+        "bannerimg": "src/assets/banner (2).jpg",
+        "eventname": "Second Day",
+        "textcontent": "..."
+      },
+      {
+        "id": "3-2-2024",
+        "bannerimg": "src/assets/banner (3).jpg",
+        "eventname": "Third Day",
+        "textcontent": "..."
+      }
+    ],
+    "upcomingevents": [
+      {
+        "id": "4-2-2024",
+        "bannerimg": "src/assets/banner (4).jpg",
+        "eventname": "Fourth Day",
+        "textcontent": "..."
+      },
+      {
+        "id": "5-2-2024",
+        "bannerimg": "src/assets/banner (5).jpg",
+        "eventname": "Fifth Day",
+        "textcontent": "..."
+      },
+      {
+        "id": "6-2-2024",
+        "bannerimg": "src/assets/banner (6).jpg",
+        "eventname": "Sixth Day",
+        "textcontent": "..."
+      }
+    ]
+  }
+  
